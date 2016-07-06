@@ -1,0 +1,2 @@
+# senhasegura
+Senha Segura - PHP
